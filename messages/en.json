@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "title": "Lauana Segal · UX Designer",
+    "description": "Portfolio of Lauana Segal, UX Designer. Research, wireframes and prototypes."
+  },
+  "nav": {
+    "main": "Main",
+    "skip": "Skip to content",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "education": "Education",
+    "cta": "Let's talk",
+    "language": "Language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "pill": "Open to new opportunities in UX Design",
+    "title": "Hi, I'm Lauana, a <hl>UX Designer</hl>.",
+    "text": "I've lived in Ireland for 2 years and I'm focused on UX Design. I love the design world and have been specializing in it through research, wireframes and Figma prototypes.",
+    "ctaProjects": "View projects",
+    "ctaCv": "Download CV",
+    "facts": [
+      { "title": "2 years in Galway", "text": "Exchange in Ireland" },
+      { "title": "English", "text": "Advanced level" },
+      { "title": "Figma", "text": "Wireframes and prototypes" }
+    ],
+    "chips": ["User research", "Wireframes", "Figma prototype"],
+    "photoAlt": "Lauana smiling, wearing glasses and a denim jacket, in front of a canal"
+  },
+  "about": {
+    "label": "01 · About",
+    "title": "A little about me",
+    "paragraphs": [
+      "I'm a UX Designer focused on intuitive interfaces and user-centered digital experiences, making the interaction between people and technology easier.",
+      "Right now I'm sharpening my skills in user research, prototyping, wireframing and interface design, aiming to turn ideas into functional, accessible projects.",
+      "I'm looking for a UX Design opportunity where I can contribute, learn from other professionals and grow with the team."
+    ],
+    "cards": [
+      {
+        "title": "Intuitive",
+        "text": "Interfaces that are simple to understand and use."
+      },
+      {
+        "title": "User-centered",
+        "text": "I start from research and usability testing with the people who will use it."
+      },
+      {
+        "title": "Functional and accessible",
+        "text": "Projects that work on any screen and for as many people as possible."
+      }
+    ]
+  },
+  "projects": {
+    "label": "02 · Projects",
+    "title": "Projects",
+    "intro": "Study projects. In each one I show the problem, the research, the process and the result.",
+    "read": "Read case study",
+    "coverLabel": "Project cover"
+  },
+  "skills": {
+    "label": "03 · Skills",
+    "title": "Skills and tools",
+    "groups": [
+      {
+        "title": "Research",
+        "items": [
+          "User research",
+          "Usability testing",
+          "Personas",
+          "Journey mapping"
+        ]
+      },
+      {
+        "title": "Structure",
+        "items": [
+          "Information architecture",
+          "Wireframing",
+          "Navigation flows"
+        ]
+      },
+      {
+        "title": "Interface",
+        "items": [
+          "UI design",
+          "Visual hierarchy",
+          "Typography and layout",
+          "Design systems"
+        ]
+      },
+      {
+        "title": "Prototype",
+        "items": [
+          "Prototyping in Figma",
+          "Responsive design",
+          "Usability"
+        ]
+      },
+      {
+        "title": "Accessibility",
+        "items": ["Design for everyone", "Contrast and legibility"]
+      }
+    ]
+  },
+  "experience": {
+    "label": "04 · International experience",
+    "title": "Two years in Ireland",
+    "place": "Galway, Ireland · 2024 – 2026",
+    "name": "Academic and cultural exchange",
+    "text": "Full immersion in the Irish language and culture, reaching an advanced level of English. [School / institution name]",
+    "chips": [
+      "Adaptability",
+      "Autonomy",
+      "Resilience",
+      "Intercultural communication"
+    ],
+    "languages": [
+      { "name": "Portuguese", "level": "Native" },
+      { "name": "English", "level": "Advanced" }
+    ]
+  },
+  "education": {
+    "label": "05 · Education",
+    "title": "Education",
+    "entries": [
+      {
+        "period": "[Start month/year] – [End month/year or “in progress”]",
+        "title": "[Course name / Bachelor's degree]",
+        "school": "[Institution name]"
+      },
+      {
+        "period": "[Year completed]",
+        "title": "[Course / Specialization / Bootcamp]",
+        "school": "[Institution name]"
+      }
+    ]
+  },
+  "contact": {
+    "label": "06 · Contact",
+    "title": "Let's <hl>talk</hl>?",
+    "text": "I'm looking for my first opportunity in UX Design. Get in touch and let's talk, I'm eager to contribute and learn alongside a team that values progress and innovation.",
+    "linkedin": "LinkedIn",
+    "cv": "Download CV"
+  },
+  "footer": {
+    "copy": "© {year} Lauana Segal · UX Designer",
+    "top": "Back to top ↑",
+    "talk": "Let's talk →"
+  },
+  "caseStudy": {
+    "back": "All projects",
+    "tag": "Case study",
+    "role": "My role",
+    "duration": "Duration",
+    "tools": "Tools",
+    "context": { "label": "01 · Context", "title": "Project context" },
+    "problem": { "label": "02 · Problem", "title": "The problem" },
+    "research": { "label": "03 · Research", "title": "Research findings" },
+    "process": { "label": "04 · Process", "title": "Wireframes and interface" },
+    "solution": { "label": "05 · Solution", "title": "Final solution" },
+    "learnings": { "label": "06 · Learnings", "title": "What I learned" },
+    "placeholders": {
+      "mockup": "Main mockup · final screens",
+      "persona": "Persona",
+      "journey": "Journey map",
+      "wireframes": "Wireframes",
+      "ui": "High-fidelity UI",
+      "components": "Components",
+      "solution": "Embedded Figma prototype or 30s video"
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The address you tried to open does not exist.",
+    "back": "Back to home"
+  }
+}

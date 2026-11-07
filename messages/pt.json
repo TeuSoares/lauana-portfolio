@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "title": "Lauana Segal · UX Designer",
+    "description": "Portfólio de Lauana Segal, UX Designer. Pesquisa, wireframes e protótipos."
+  },
+  "nav": {
+    "main": "Principal",
+    "skip": "Pular para o conteúdo",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "skills": "Habilidades",
+    "education": "Formação",
+    "cta": "Vamos conversar",
+    "language": "Idioma",
+    "openMenu": "Abrir menu",
+    "closeMenu": "Fechar menu"
+  },
+  "hero": {
+    "pill": "Aberta a novas oportunidades em UX Design",
+    "title": "Oi, eu sou a Lauana, <hl>UX Designer</hl>.",
+    "text": "Moro na Irlanda há 2 anos e me dedico ao UX Design. Gosto muito do universo do design e venho me especializando nessa área, entre pesquisa, wireframes e protótipos no Figma.",
+    "ctaProjects": "Ver projetos",
+    "ctaCv": "Baixar CV",
+    "facts": [
+      { "title": "2 anos em Galway", "text": "Intercâmbio na Irlanda" },
+      { "title": "Inglês", "text": "Nível avançado" },
+      { "title": "Figma", "text": "Wireframes e protótipos" }
+    ],
+    "chips": ["Pesquisa com usuários", "Wireframes", "Protótipo no Figma"],
+    "photoAlt": "Lauana sorrindo, de óculos e jaqueta jeans, em frente a um canal"
+  },
+  "about": {
+    "label": "01 · Sobre",
+    "title": "Um pouco sobre mim",
+    "paragraphs": [
+      "Sou UX Designer focada em interfaces intuitivas e experiências digitais centradas no usuário, facilitando a interação entre pessoas e tecnologia.",
+      "Hoje estou aprimorando minhas competências em pesquisa com usuários, prototipação, wireframes e design de interfaces, buscando transformar ideias em projetos funcionais e acessíveis.",
+      "Procuro uma oportunidade em UX Design onde eu possa contribuir, aprender com outros profissionais e evoluir junto com a equipe."
+    ],
+    "cards": [
+      {
+        "title": "Intuitivo",
+        "text": "Interfaces simples de entender e de usar."
+      },
+      {
+        "title": "Centrado no usuário",
+        "text": "Parto da pesquisa e dos testes de usabilidade com quem vai usar."
+      },
+      {
+        "title": "Funcional e acessível",
+        "text": "Projetos que funcionam em qualquer tela e para o maior número de pessoas."
+      }
+    ]
+  },
+  "projects": {
+    "label": "02 · Projetos",
+    "title": "Projetos",
+    "intro": "Projetos de estudo. Em cada um eu mostro o problema, a pesquisa, o processo e o resultado.",
+    "read": "Ler estudo de caso",
+    "coverLabel": "Capa do projeto"
+  },
+  "skills": {
+    "label": "03 · Habilidades",
+    "title": "Habilidades e ferramentas",
+    "groups": [
+      {
+        "title": "Pesquisa",
+        "items": [
+          "Pesquisa com usuários",
+          "Testes de usabilidade",
+          "Personas",
+          "Mapa de jornada"
+        ]
+      },
+      {
+        "title": "Estrutura",
+        "items": [
+          "Arquitetura da informação",
+          "Wireframing",
+          "Fluxos de navegação"
+        ]
+      },
+      {
+        "title": "Interface",
+        "items": [
+          "UI Design",
+          "Hierarquia visual",
+          "Tipografia e layout",
+          "Design systems"
+        ]
+      },
+      {
+        "title": "Protótipo",
+        "items": [
+          "Prototipação no Figma",
+          "Design responsivo",
+          "Usabilidade"
+        ]
+      },
+      {
+        "title": "Acessibilidade",
+        "items": [
+          "Design para todas as pessoas",
+          "Contraste e legibilidade"
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "label": "04 · Vivência internacional",
+    "title": "Dois anos na Irlanda",
+    "place": "Galway, Irlanda · 2024 – 2026",
+    "name": "Intercâmbio acadêmico e cultural",
+    "text": "Imersão total no idioma e na cultura irlandesa, chegando ao nível avançado de inglês. [Nome da escola / instituição]",
+    "chips": [
+      "Adaptabilidade",
+      "Autonomia",
+      "Resiliência",
+      "Comunicação intercultural"
+    ],
+    "languages": [
+      { "name": "Português", "level": "Nativo" },
+      { "name": "Inglês", "level": "Avançado" }
+    ]
+  },
+  "education": {
+    "label": "05 · Formação",
+    "title": "Formação acadêmica",
+    "entries": [
+      {
+        "period": "[Mês/Ano de início] – [Mês/Ano de conclusão ou “cursando”]",
+        "title": "[Nome do curso / Bacharelado]",
+        "school": "[Nome da instituição de ensino]"
+      },
+      {
+        "period": "[Ano de conclusão]",
+        "title": "[Curso / Especialização / Bootcamp]",
+        "school": "[Nome da instituição de ensino]"
+      }
+    ]
+  },
+  "contact": {
+    "label": "06 · Contato",
+    "title": "Vamos <hl>conversar</hl>?",
+    "text": "Estou em busca da minha primeira oportunidade em UX Design. Entre em contato e vamos conversar, estou ansiosa para contribuir e aprender com uma equipe que valoriza o progresso e a inovação.",
+    "linkedin": "LinkedIn",
+    "cv": "Baixar CV"
+  },
+  "footer": {
+    "copy": "© {year} Lauana Segal · UX Designer",
+    "top": "Voltar ao topo ↑",
+    "talk": "Vamos conversar →"
+  },
+  "caseStudy": {
+    "back": "Todos os projetos",
+    "tag": "Estudo de caso",
+    "role": "Meu papel",
+    "duration": "Duração",
+    "tools": "Ferramentas",
+    "context": { "label": "01 · Contexto", "title": "Contexto do projeto" },
+    "problem": { "label": "02 · Problema", "title": "O problema" },
+    "research": { "label": "03 · Pesquisa", "title": "Resultados da pesquisa" },
+    "process": { "label": "04 · Processo", "title": "Wireframes e interface" },
+    "solution": { "label": "05 · Solução", "title": "Solução final" },
+    "learnings": { "label": "06 · Aprendizados", "title": "O que aprendi" },
+    "placeholders": {
+      "mockup": "Mockup principal · telas finais",
+      "persona": "Persona",
+      "journey": "Mapa de jornada",
+      "wireframes": "Wireframes",
+      "ui": "UI alta fidelidade",
+      "components": "Componentes",
+      "solution": "Protótipo do Figma incorporado ou vídeo de 30s"
+    }
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "text": "O endereço que você tentou abrir não existe.",
+    "back": "Voltar para o início"
+  }
+}

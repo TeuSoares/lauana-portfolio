@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+/* Tokens de cor (SPEC 5.1). Para testar outro vermelho, troque só --color-accent. */
+@theme static {
+  --color-accent: #c4182c;
+  --color-coral: #ffb4ac;
+  --color-ink: #4b1026;
+  --color-muted: #6e4e5a;
+  --color-soft: #fbefee;
+  --color-line: #f0dcda;
+  --color-stripe-a: #f6e1df;
+  --color-stripe-b: #fcf1f0;
+  --color-dashed: #e3b8b3;
+  --color-on-dark: #ecd3da;
+  --color-on-accent: #ffe9e6;
+}
+
+/* Fontes carregadas com next/font (ver app/[locale]/layout.tsx) */
+@theme inline {
+  --font-display: var(--font-bricolage), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-dm-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Fundo listrado dos espaços reservados para imagens */
+@utility bg-stripes {
+  background: repeating-linear-gradient(
+    135deg,
+    #f6e1df 0 16px,
+    #fcf1f0 16px 32px
+  );
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+section[id] {
+  scroll-margin-top: 16px;
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-ink);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
