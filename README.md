@@ -66,12 +66,12 @@ Em `app/globals.css`, altere `--color-accent`. Alternativas já testadas no desi
 
 ## Publicação
 
-Quando o domínio estiver definido, crie `.env.local` (e a mesma variável na Vercel):
+Por enquanto o site usa `https://lauana-portfolio.vercel.app`, definido como padrão em `lib/site.ts`. Quando o domínio `lauanasegal.com.br` estiver configurado na Vercel, troque esse valor. Ele é usado no sitemap, no `robots.txt` e nos metadados (hreflang e Open Graph).
+
+Para usar outra URL (por exemplo, num preview), defina a variável `NEXT_PUBLIC_SITE_URL` no `.env.local` ou na Vercel:
 
 ```
-NEXT_PUBLIC_SITE_URL=https://seudominio.com
+NEXT_PUBLIC_SITE_URL=https://outra-url.com
 ```
-
-Ela é usada no sitemap, no `robots.txt` e nos metadados (hreflang e Open Graph).
 
 Na Vercel, importe o repositório: o projeto é detectado como Next.js automaticamente.

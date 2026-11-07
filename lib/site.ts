@@ -1,5 +1,5 @@
 export const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://lauana-portfolio.vercel.app";
 
 export const EMAIL = "lauanasegal0@gmail.com";
 export const LINKEDIN = "https://linkedin.com/in/lauana-segal-melo";
